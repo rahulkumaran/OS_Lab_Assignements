@@ -1,0 +1,7 @@
+Add student:554:KT:9.9:2:Math:98:Phy:99:
+Add Student:562:Rahul:1.1:2:Math:12:Phy:10:
+Add Student:550:Srija:8.0:2:Math:23:Phy:80:
+add student:209:Kotha:8.5:2:Digital Electronics:100:Control Systems:90:
+Modify Student:562:8.9:
+Delete Student:562:
+Print Database:
